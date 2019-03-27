@@ -1,1 +1,1 @@
-git init# JG-Android-Library-v1
+# JG-Android-Library-v1
